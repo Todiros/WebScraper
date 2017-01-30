@@ -23,3 +23,4 @@ Running the script second time fixes the problem.
 * Console output has been formatted for better readability 
 * Openpyxl UserWarning (Unknown extension is not supported and will be removed) has been ignored (all warnings ignored) and thus is not displayed in the console.
 * Added new and edited existing comments
+* Added icon
